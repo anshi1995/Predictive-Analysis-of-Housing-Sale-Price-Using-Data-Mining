@@ -12,5 +12,3 @@ Stage 3. Model Exploration and Model Selection
 Stage 4. Model Implementation
 
 Stage 5. Model Performance Evaluation and Visualization
-
-The initial commit only includes the 1st and 2nd stage.
